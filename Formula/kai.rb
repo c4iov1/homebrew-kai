@@ -4,8 +4,8 @@ class Kai < Formula
   version "0.1.0"
   license "AGPL-3.0-or-later"
 
-  url "https://github.com/c4iov1/kai/releases/download/v0.1.0/kai-macos-aarch64.tar.gz"
-  sha256 "12110873136f6ffbb69446287043e8f329f3fc879071bd38c3c18137be89b874"
+  url "https://github.com/c4iov1/kai-releases/releases/download/v0.1.0/kai-macos-aarch64.tar.gz"
+  sha256 "4525b9d9422024a2f146bfac3349a193429ad5cd0767d31575f1c7716790b9be"
 
   depends_on arch: :arm64
 
